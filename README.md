@@ -1,8 +1,6 @@
 # VaxELAN_pipeline-Rawal-lab-
 Here, we created a proteomics pipeline to identify PVCs from different pathogens (https://www.nature.com/articles/s41598-021-96863-x)
-A case example of Trypanosoma cruzi was utilized in the attached article.
-
-In this pipeline, we used a series of bioinformatics tool to identify protein/proteome charcteristics for different pathogens.
+A case example of Trypanosoma cruzi was utilized in the attached article. In this pipeline, we used a series of bioinformatics tool to identify protein/proteome charcteristics for different pathogens.
 Its available at https://vac.kamalrawal.in/vaxelan/
 
 
