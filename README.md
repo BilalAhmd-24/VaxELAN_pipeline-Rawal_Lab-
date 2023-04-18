@@ -6,7 +6,8 @@ In this pipeline, we used a series of bioinformatics tool to identify protein/pr
 Its available at https://vac.kamalrawal.in/vaxelan/
 
 
-Pls cite if you use this pipeline
+Pls cite if you use this pipeline:
+
 Rawal, K., Sinha, R., Abbasi, B.A. et al. Identification of vaccine targets in pathogens and design of a vaccine using computational approaches. Sci Rep 11, 17626 (2021). https://doi.org/10.1038/s41598-021-96863-x
 _____________________________________________________________________________________________________________________________
 For latest update, code maintenence, site issues, and commerical uses: Pls contact Dr. Rawal
